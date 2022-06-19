@@ -1,0 +1,17 @@
+{
+    "dependencies": {
+        "@google-cloud/bigquery": "^5.11.0",
+        "puppeteer": "^13.7.0",
+        "xlsx": "^0.18.2"
+    },
+    "name": "gpu-scraper",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "description": ""
+}
